@@ -1,0 +1,21 @@
+{
+  "name": "recomendacoes-credito-tfjs",
+  "version": "1.0.0",
+  "description": "Projeto de recomendacoes de credito com JavaScript e TensorFlow.js",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "tensorflow",
+    "tensorflowjs",
+    "credito",
+    "machine-learning"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  }
+}
